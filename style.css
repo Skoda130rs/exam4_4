@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+	outline: none;
+	text-decoration: none;
+	outline: none;
+
+	font-family: 'Space Grotesk', sans-serif;
+    box-sizing: border-box;
+	}
+
+ol,
+ul,
+li {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a img {
+	border: none;
+}
+
+button,
+a {
+	cursor: pointer;
+	color: inherit;
+}
+
+textarea {
+	resize: none;
+}
+
+textarea,
+select {
+	appearance: none !important;
+	-webkit-appearance: none !important;
+	border-radius: 0;
+}
+
+
+:root {
+    --primary: #ffeedf;
+    --secondary: #125434;
+  }
